@@ -1,3 +1,9 @@
+#### install
+
+```bash
+$ npm install or yarn install
+```
+
 #### Setup project env
 
 ```sh
