@@ -1,0 +1,17 @@
+.main-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  max-height: 300px;
+  width: 100%;
+  .footer-middle {
+    padding-top: 1rem;
+    color: #ffffff;
+    background-color: #ee2524;
+  }
+
+  .footer-bottom {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+}
